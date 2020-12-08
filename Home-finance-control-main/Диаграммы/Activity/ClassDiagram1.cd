@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Balansiq.DB.DBAttributes">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB\DBAttributes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.NotNull">
+    <Position X="19.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB\DBAttributes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.AutoIncrement">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB\DBAttributes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.PrimaryKey">
+    <Position X="12.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB\DBAttributes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.Unique">
+    <Position X="12.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB\DBAttributes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.Ignore">
+    <Position X="14" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB\DBAttributes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.ForeignKey">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB\DBAttributes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.DBConnector">
+    <Position X="15.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAMAAAAAABBAAQAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>DB\DBConnector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.DBExceptions">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB\DBExceptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.DBOpenException">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB\DBExceptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.DBManager">
+    <Position X="22.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAEAAKACAFAQAgQEIAAEIAAgIJUBAIAAJABCA=</HashCode>
+      <FileName>DB\DBManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.Entities.Filter">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB\Entities\Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.Entities.IItem">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAAAAAAAAAAABAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB\Entities\IItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.Entities.IncomeFilter">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB\Entities\IncomeFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.Entities.IncomeItem">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADAAAAAAAAgAAAAAAAAAAAQAAIAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>DB\Entities\IncomeItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.Entities.SpendFilter">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAIAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DB\Entities\SpendFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.Entities.SpendFilterType">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB\Entities\SpendFilterType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.DB.Entities.SpendItem">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAQQAgAAAAAAAAAACAAAIAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>DB\Entities\SpendItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.Program">
+    <Position X="14" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.MainWindow">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKoQCEASAbCMgAKBIAGEgEADgCIAEQCABAEGABAiCCQ=</HashCode>
+      <FileName>Windows\MainWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.Properties.Resources">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAABEBEAAAAQAAIAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.Properties.Settings">
+    <Position X="21" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.Pages.Controls.AnalysisReport">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgEAAAAAAIAAAAAAAAAAACQAAAAAACCAAAQAA=</HashCode>
+      <FileName>Windows\Controls\AnalysisReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.Pages.Controls.MainControl">
+    <Position X="3.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAIAAAABAAAAAIgBAAAAEAAAAAAAADAAAAECIQIRAA=</HashCode>
+      <FileName>Windows\Controls\MainControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.Pages.Controls.TreeViewControl">
+    <Position X="19.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAEAAAAAAAAAAAAAAAgAAAAAACAAAAQABAAEAAAAA=</HashCode>
+      <FileName>Windows\Controls\TreeViewControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.Pages.Controls.FilterTreeNode">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Controls\TreeViewControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.Pages.Controls.GridView.DataGridViewFilterCell">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAIAAAAgAAAAAAAAAEABgAgAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Windows\Controls\GridView\DataGridViewFilterCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.Pages.Controls.GridView.DataGridViewFilterTypeColumn">
+    <Position X="21" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAAAAABAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Controls\GridView\DataGridViewFilterTypeColumn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.Pages.Controls.GridView.DataGridViewIncomeRow">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAIAAAAEABIAAAEBAEAAAAAABAA=</HashCode>
+      <FileName>Windows\Controls\GridView\DataGridViewIncomeRow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Balansiq.Pages.Controls.GridView.DataGridViewSpendRow">
+    <Position X="14" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAFAIIAAAUgBAAAAEDAEAEAAAABAA=</HashCode>
+      <FileName>Windows\Controls\GridView\DataGridViewSpendRow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Balansiq.DB.DataTableType">
+    <Position X="10.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAgIABAA=</HashCode>
+      <FileName>DB\DBManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Balansiq.Pages.Controls.MoneyChangedEventHandler">
+    <Position X="12.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Controls\MainControl.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
